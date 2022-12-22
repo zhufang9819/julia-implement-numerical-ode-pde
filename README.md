@@ -13,3 +13,9 @@ Julia Implementation of some numerial ode/pde methods.
 
 ### 1-2 Runge-Kutta Method
 
+### 2 PDE
+
+### 3 Misc
+
+- How to use Method of Lines and Runge Kutta to Solve one-dimensional heat transfer equations. (Completed)
+
