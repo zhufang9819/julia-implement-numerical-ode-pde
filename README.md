@@ -10,8 +10,11 @@ Julia Implementation of some numerial ode/pde methods.
 ### 1 ODE
 
 ### 1-1 Euler Method 
+- Add Forward Euler.
 
 ### 1-2 Runge-Kutta Method
+- Add Runge Kutta (4th order).
+- Add Adaptive Runge Kutta (RK23).
 
 ### 2 PDE
 
