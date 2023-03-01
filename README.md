@@ -11,14 +11,15 @@ Julia Implementation of some numerial ode/pde methods.
 
 ### 1-1 Euler Method 
 - Add Forward Euler.
+- Add Improved Euler.
+- Add Implicit Euler.
 
 ### 1-2 Runge-Kutta Method
-- Add Runge Kutta (4th order).
+- Add 4th Order Runge Kutta.
 - Add Adaptive Runge Kutta (RK23).
 
 ### 2 PDE
 
-### 3 Misc
-
+### 3 Examples
 - How to use Method of Lines and Runge Kutta to Solve one-dimensional heat transfer equations. (Completed)
 
