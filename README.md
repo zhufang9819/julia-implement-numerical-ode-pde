@@ -4,7 +4,8 @@
 Julia Implementation of some numerial ode/pde methods.
 
 ### Note
-- We first solve the [initial value problem](https://en.wikipedia.org/wiki/Initial_value_problem#:~:text=In%20multivariable%20calculus%2C%20an%20initial,solving%20an%20initial%20value%20problem.)(which we also call cauchy initial value problem). We define the IVP by the library [DifferentialEquations.jl](https://docs.sciml.ai/DiffEqDocs/stable/) rather than define from scratch.
+- We first solve the *[Initial Value Problem](https://en.wikipedia.org/wiki/Initial_value_problem#:~:text=In%20multivariable%20calculus%2C%20an%20initial,solving%20an%20initial%20value%20problem.)* (which we also call *Cauchy Initial Value Problem*). 
+- We define the Initial Value Problem by the library [DifferentialEquations.jl](https://docs.sciml.ai/DiffEqDocs/stable/) rather than define from scratch.
 
 
 ### 1 ODE
@@ -21,5 +22,6 @@ Julia Implementation of some numerial ode/pde methods.
 ### 2 PDE
 
 ### 3 Examples
-- How to use Method of Lines and Runge Kutta to Solve one-dimensional heat transfer equations. (Completed)
+- How to use *Forward Euler Method* to solve ode systems.
+- How to use *Method of Lines* and *4th Order Runge Kutta* to solve one-dimensional heat transfer equations. (Completed)
 
