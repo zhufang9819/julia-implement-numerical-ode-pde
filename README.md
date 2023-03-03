@@ -12,7 +12,7 @@ Julia Implementation of some numerial ode/pde methods.
 
 ### 1-1 Euler Method 
 - Add Forward Euler. (Completed) 
-- Add Backward(Implicit) Euler. (Ongoing)
+- Add Backward(Implicit) Euler. (Ongoing, using fixed point iteration on non-stiff problem)
 - Add Improved Euler. (Ongoing)
 
 ### 1-2 Runge-Kutta Method
