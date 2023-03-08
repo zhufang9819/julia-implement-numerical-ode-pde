@@ -25,3 +25,4 @@ Julia Implementation of some numerial ode/pde methods.
 1. How to use *Method of Lines* and *4th Order Runge Kutta* to solve one-dimensional heat transfer equations. (Completed)
 2. How to use *Forward Euler Method* to solve ode systems. (Completed)
 
+3. How to use `solve` to solve *FitzHugh-Nagumo* model. (Completed)
