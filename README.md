@@ -13,7 +13,7 @@ Julia Implementation of some numerial ode/pde methods.
 - Add Modified Euler. (Completed, A "simple version" of Runge-Kutta)
 ### 1.2 Runge-Kutta Method
 - Add 4th Order Runge Kutta. (Completed)
-- Add Adaptive Runge Kutta (RK23). (Ongoing)
+- Add Adaptive Runge Kutta (RK23). (Completed)
 ### 2. PDE
 ### 3. Examples
 1. How to use *Method of Lines* and *4th Order Runge Kutta* to solve one-dimensional heat transfer equations. (Completed)
