@@ -15,15 +15,16 @@ Julia Implementation of some numerial ode/pde methods with examples.
 - Add Adaptive Runge Kutta (RK23). (Completed)
 #### 1.3 Multistep Methods
 - Add 4th-order Adams–Bashforth. (Completed)
-- Add 2th-order Adams-Moulton. (Completed)
-- Add a stiff problem example to test the AB4 (explicit) vs AM2 (implicit).
+- Add 2nd-order Adams-Moulton. (Completed)
+- Add a stiff problem example to test the AB4 (explicit) vs AM2 (implicit). (Completed)
+- Add 2nd-order backward differentiation formula (BD2). (Completed)
 
 ### 2. PDE
 #### 2.1 Finite difference method
 #### 2.2 Finite volume method
 #### 2.3 Finite element method
 #### 2.4 Spectral methd
-### 3. Examples
+### 3. Applications
 1. How to use *Method of Lines* and *4th Order Runge Kutta* to solve one-dimensional heat transfer equations. (Completed)
 2. How to use *Forward Euler Method* to solve ode systems. (Completed)
 3. How to use `solve` to solve *FitzHugh-Nagumo* model. (Completed)
